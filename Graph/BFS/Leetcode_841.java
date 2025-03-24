@@ -1,4 +1,4 @@
-package Graph.BFS;
+package BFS;
 
 import java.util.*;
 
